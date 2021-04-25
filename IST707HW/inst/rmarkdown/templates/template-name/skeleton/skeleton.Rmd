@@ -1,0 +1,74 @@
+---
+title: "IST707 HW"
+author: "PJ Capelli"
+date: "The Date"
+output:
+  pdf_document: default
+  pdf: default
+  word_document:
+    reference.docx: center.docx
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\begin{center}IST707\end{center}
+\
+\
+\
+\
+\
+\
+\
+```{r, echo=FALSE, fig.align='center'}
+library(knitr)
+include_graphics("Syracuse_Orange_logo.png")
+```
+
+
+\newpage
+
+# Introdution
+
+#  Analysis and models
+
+## Load required libraries
+```{r library load, echo=FALSE}
+require(tidyverse)
+require(forcats)
+require(ggplot2)
+require(dplyr)
+require(stargazer)
+require(caret)
+require(modelr)
+setwd("~/OneDrive/Education/MSDS - Syracuse/2021 Spring/IST707/Week 2/Assignment")
+```
+
+## About the data
+
+## Import the data
+
+```{r Import}
+
+```
+
+## Clean the data
+
+```{r Clean}
+
+```
+
+## Exploratory data anaylysis and visualization
+
+```{r EDA}
+
+```
+
+## Results
+
+```{r Results}
+
+```
+
+# Conclusion
