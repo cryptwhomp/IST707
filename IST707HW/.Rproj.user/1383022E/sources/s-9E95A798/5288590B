@@ -1,9 +1,9 @@
 {
     "id": "5288590B",
-    "path": "~/OneDrive/Education/MSDS - Syracuse/2021 Spring/IST707/IST707HW/inst/rmarkdown/templates/template-name/template.yaml",
+    "path": "~/Documents/GitHub/IST707/IST707HW/inst/rmarkdown/templates/template-name/template.yaml",
     "project_path": "inst/rmarkdown/templates/template-name/template.yaml",
     "type": "yaml",
-    "hash": "1087362797",
+    "hash": "1078634642",
     "contents": "",
     "dirty": false,
     "created": 1619309602434.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,16",
+        "cursorPosition": "2,29",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1619310581,
+    "lastKnownWriteTime": 1619310835,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1619310581385,
+    "last_content_update": 1619310835770,
     "read_only": false,
     "read_only_alternatives": []
 }
